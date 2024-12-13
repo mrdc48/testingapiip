@@ -53,7 +53,7 @@ def update_php_file(urls, php_file_path):
     print(f"PHP file {php_file_path} created and updated with new URLs.")
 
 # Path to your PHP file
-php_file_path = 'mrdc48/testingapiip/refs/heads/main/play.php'
+php_file_path = 'play.php'
 
 # Initialize tokens.json if it doesn't exist
 try:
